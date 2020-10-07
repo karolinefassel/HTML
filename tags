@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Titulo da pagina</title>
+	<link href="estilo.css" rel="stylesheet"/>
+</head>
+<body>
+	<header>
+		<h1>titulo</h1>
+		<p>subtitulo</p>
+	</header>
+
+	<nav>
+		<a href="menu">um</a>
+		<a href="menu2">dois</a>
+		<a href="menu3">tres</a>
+	</nav>
+
+
+	<section>assunto 1</section>
+	<section>assunto 2</section>
+	<section>assunto 3</section>
+
+	<article>conteudo principal</article>
+
+	<aside>conteudo secundario</aside>
+
+	
+
+	<footer>
+		<p>rodape</p>
+	</footer>
+
+
+
+</body>
+</html>
