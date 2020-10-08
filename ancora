@@ -1,0 +1,5 @@
+menu
+<li><a> href="#inicial">Pagina inicial</a></li>
+
+chamando
+<a> id="inicial"> </a>
